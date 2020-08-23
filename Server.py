@@ -27,6 +27,16 @@ if __name__ == '__main__':
     main()
 
 '''
+PreReq
+0. Make sure python and pip are installed using
+python --version
+pip --version
+
+1. Install pip using
+pip install flask
+
+
+
 How to run
 1. Go to command line and type this:
 python Server.py
